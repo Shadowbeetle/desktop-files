@@ -1,0 +1,10 @@
+[Desktop Entry]
+Exec=/opt/visual-studio-code/code /home/nazgul/Dropbox/Notes/ 
+Icon=visual-studio-code
+Terminal=false
+Type=Application
+Name=VSCode Notes
+Categories=Notes;VSCode;Visual;Studio;Code
+MimeType=text/plain;inode/directory;
+StartupNotify=true
+StartupWMClass=code
